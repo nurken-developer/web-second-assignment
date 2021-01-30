@@ -1,0 +1,74 @@
+
+.nur{
+  background-color: #6edbd4 ;
+  color : #02275e ;
+  margin: 10px;
+  border-radius: 50px;
+    padding: 20px ;
+    border: 7px solid #4b7d7a ;
+    box-shadow: 5px 5px 7px #adcdff ;
+    font-size: 50px;
+}
+.slide {
+  background-color: #acc6f2;
+  height: 100px;
+ width: 20%;
+}
+.active {
+  height: 300px;
+ width: 100%;
+ border: 7px solid #8f8fcf ;
+}
+.zzz {
+  height: 300px;
+ width: 100%;
+ border: 7px solid #8f8fcf ;
+}
+.ppp {
+  height: 300px;
+ width: 100%;
+ border: 7px solid #8f8fcf ;
+}
+.info {
+  background-color: #a9e8cd ;
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+  opacity: 0.9;
+  height: 300px ;
+  border-radius: 80px;
+  padding: 20px ;
+  margin-left: 400px ;
+  margin-right: 250px;
+  border: 7px solid #4b7d7a ;
+  box-shadow: 5px 5px 7px #adcdff ;
+  font-style: italic;
+}
+.hobbi {
+  background-color: #a9e8cd ;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+    opacity: 0.9;
+  border-radius: 50px;
+    padding: 20px ;
+  margin-left: 400px ;
+  margin-right: 250px;
+  border: 7px solid #4b7d7a ;
+  box-shadow: 5px 5px 7px #adcdff ;
+}
+.cont {
+  background-color: #a9e8cd ;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 30px;
+    opacity: 0.9;
+    text-align: center;
+  border-radius: 50px;
+    padding: 20px ;
+  margin-left: 400px ;
+  margin-right: 250px;
+  border: 7px solid #4b7d7a ;
+box-shadow: 5px 5px 7px #adcdff ;
+}
